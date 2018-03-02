@@ -55,3 +55,7 @@
 
 ### A pdf file called Problem1 has been uploaded for Problem 1 derivation.
 
+## Hope the read me simplified code understanding for you. Also take care coz.....
+
+![winter](https://user-images.githubusercontent.com/35979747/36880051-b7bd5594-1d94-11e8-9032-694c94025c66.jpg)
+
